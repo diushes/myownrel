@@ -1,7 +1,7 @@
 asgiref==3.2.10
 certifi==2020.6.20
 chardet==3.0.4
-Django==3.0.7
+Django==3.0.14
 django-ckeditor==5.9.0
 django-ckeditor-filebrowser-filer==0.3.0
 django-filer==1.7.1
